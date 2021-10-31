@@ -183,7 +183,7 @@
                 "name": "Kolle Mate",
                 "barcode": "4280001274044",
                 "price": 150,
-                "image": "images/kolle.png",
+                "image": "images/kolle-mate.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -213,6 +213,7 @@
                 "name": "Flora Power Mate",
                 "barcode": "4260031874056",
                 "price": 150,
+                "image": "images/florapower-logo.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -226,6 +227,7 @@
                 "name": "Club Mate",
                 "barcode": "4029764001807",
                 "price": 150,
+                "image": "images/club-mate.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -233,6 +235,7 @@
                 "name": "Club Mate Eistee",
                 "barcode": "4029764001814",
                 "price": 150,
+                "image": "images/club-mate.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -240,6 +243,7 @@
                 "name": "Club Mate Granat",
                 "barcode": "4029764001401",
                 "price": 150,
+                "image": "images/club-mate.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -247,6 +251,7 @@
                 "name": "Fritz Limo Orange",
                 "barcode": "4260107222989",
                 "price": 150,
+                "image": "images/fritz-limo-orange.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -254,6 +259,14 @@
                 "name": "Fritz-Spritz Apfelschorle",
                 "barcode": "4260107222576",
                 "price": 150,
+                "image": "images/fritz-spritz-apfelschorle.png",
+                "payWithStamps": "MATE"
+            },
+            {
+                "id": "cold-500-fritz-mischmasch",
+                "name": "Fritz-Cola MischMasch",
+                "price": 150,
+                "image": "images/fritz-kola-mischmasch.png",
                 "payWithStamps": "MATE"
             }
         ]
@@ -266,6 +279,7 @@
                 "name": "Wostok Aprikose Mandel",
                 "barcode": "4260189210096",
                 "price": 110,
+                "image": "images/wostok-aprikose-mandel.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -273,6 +287,7 @@
                 "name": "Wostok Dattel Granatapfel",
                 "barcode": "4260189210034",
                 "price": 110,
+                "image": "images/wostok-dattel-granatapfel.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -280,6 +295,7 @@
                 "name": "Wostok Estragon Ingwer",
                 "barcode": "4260189210058",
                 "price": 110,
+                "image": "images/wostok-estragon-ingwer.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -287,6 +303,37 @@
                 "name": "Wostok Tannenwald",
                 "barcode": "4260189210010",
                 "price": 110,
+                "image": "images/wostok-tannenwald.png",
+                "payWithStamps": "MATE"
+            },
+            {
+                "id": "cold-330-wostok-birne-rosmarin",
+                "name": "Wostok Birne Rosmarin",
+                "price": 150,
+                "image": "images/wostok-birne-rosmarin.png",
+                "flags": [
+                    "BIO"
+                ],
+                "payWithStamps": "MATE"
+            },
+            {
+                "id": "cold-330-wostok-orange-vanille",
+                "name": "Wostok Orange Vanille",
+                "price": 150,
+                "image": "images/wostok-orange-vanille.png",
+                "flags": [
+                    "BIO"
+                ],
+                "payWithStamps": "MATE"
+            },
+            {
+                "id": "cold-330-wostok-pflaume-kardamon",
+                "name": "Wostok Pflaume Kardamon",
+                "price": 150,
+                "image": "images/wostok-pflaume-kardamon.png",
+                "flags": [
+                    "BIO"
+                ],
                 "payWithStamps": "MATE"
             },
             {
@@ -295,6 +342,7 @@
                 "barcode": "4015533025419",
                 "price": 150,
                 "payWithStamps": "MATE",
+                "image": "images/biozisch-matcha.png",
                 "flags": [
                     "BIO"
                 ]
@@ -305,6 +353,7 @@
                 "barcode": "4015533019586",
                 "price": 150,
                 "payWithStamps": "MATE",
+                "image": "images/biozisch-ingwer.png",
                 "flags": [
                     "BIO"
                 ]
@@ -315,6 +364,7 @@
                 "barcode": "4015533028236",
                 "price": 150,
                 "payWithStamps": "MATE",
+                "image": "images/biozisch-gurke.png",
                 "flags": [
                     "BIO"
                 ]
@@ -328,59 +378,61 @@
                 "id": "snacks-mr-tom",
                 "name": "Mr. Tom",
                 "barcode": "4021700800000",
+                "image": "images/mr-tom.jpg",
                 "price": 40
             },
             {
                 "id": "snacks-mr-jim",
                 "name": "Mr. Jim",
+                "image": "images/mr-jim.jpg",
                 "price": 40
             },
             {
                 "id": "snacks-gute-bio-schokolade",
                 "name": "Die Gute Bio Schokolade",
                 "barcode": "7610815028774",
+                "image": "images/bio-schokolade.png",
                 "price": 140
             },
             {
                 "id": "snacks-kinder-riegel",
                 "name": "Kinder Riegel",
                 "barcode": "40084077",
+                "image": "images/kinder-schokolade.svg",
                 "price": 30
             },
             {
                 "id": "snacks-kinder-bueno",
                 "name": "Kinder Bueno",
                 "barcode": "4008400935225",
-                "price": 80
-            },
-            {
-                "id": "snacks-snickers",
-                "name": "Snickers",
-                "barcode": "5000159461122",
-                "price": 80
-            },
-            {
-                "id": "snacks-twix",
-                "name": "Twix",
-                "barcode": "5000159459228",
+                "image": "images/kinder-bueno.png",
                 "price": 80
             },
             {
                 "id": "snacks-knoppers",
                 "name": "Knoppers",
                 "barcode": "40358802",
+                "image": "images/knoppers.jpg",
                 "price": 60
             },
             {
                 "id": "snacks-hanuta",
                 "name": "Hanuta",
                 "barcode": "7120873518730",
+                "image": "images/hanuta.jpg",
                 "price": 60
             },
             {
                 "id": "snacks-pickup",
                 "name": "Pickup",
                 "barcode": "4017100213045",
+                "image": "images/pick-up-choco.jpg",
+                "price": 40
+            },
+            {
+                "id": "snacks-pickup-black-white",
+                "name": "Pickup Black & White",
+                "image": "images/pick-up-black-white.jpg",
                 "price": 40
             }
         ]
