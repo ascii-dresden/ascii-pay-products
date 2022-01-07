@@ -220,6 +220,7 @@
                 "id": "cold-500-premium",
                 "name": "Premium Cola",
                 "price": 150,
+                "image": "images/premium-cola.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -235,7 +236,7 @@
                 "name": "Club Mate Eistee",
                 "barcode": "4029764001814",
                 "price": 150,
-                "image": "images/club-mate.png",
+                "image": "images/club-mate-icetea.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -243,7 +244,14 @@
                 "name": "Club Mate Granat",
                 "barcode": "4029764001401",
                 "price": 150,
-                "image": "images/club-mate.png",
+                "image": "images/club-mate-granat.png",
+                "payWithStamps": "MATE"
+            },
+            {
+                "id": "cold-500-club-mate-winter",
+                "name": "Club Mate Winter",
+                "price": 150,
+                "image": "images/club-mate-winter.png",
                 "payWithStamps": "MATE"
             },
             {
@@ -267,6 +275,20 @@
                 "name": "Fritz-Cola MischMasch",
                 "price": 150,
                 "image": "images/fritz-kola-mischmasch.png",
+                "payWithStamps": "MATE"
+            },
+            {
+                "id": "cold-500-miomio-mate",
+                "name": "Mio Mio Mate",
+                "price": 150,
+                "image": "images/miomio-mate.png",
+                "payWithStamps": "MATE"
+            },
+            {
+                "id": "cold-500-miomio-mate-ginger",
+                "name": "Mio Mio Mate Ginger",
+                "price": 150,
+                "image": "images/miomio-mate-ginger.png",
                 "payWithStamps": "MATE"
             }
         ]
