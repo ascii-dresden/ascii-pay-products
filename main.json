@@ -1,462 +1,603 @@
 [
-    {
-        "name": "Heißgetränke",
-        "products": [
-            {
-                "id": "hot-c",
-                "name": "Kaffee",
-                "nickname": "C",
-                "price": 80,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-cpp",
-                "name": "Kaffee Creme",
-                "nickname": "C++",
-                "price": 80,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-rust",
-                "name": "Cafe americano",
-                "nickname": "Rust",
-                "price": 80,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-cnn",
-                "name": "Kaffee schwach",
-                "nickname": "C--",
-                "price": 80,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-lua",
-                "name": "Espresso",
-                "nickname": "Lua",
-                "price": 80,
-                "image": "images/espresso.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-julia",
-                "name": "Espresso Doppio",
-                "nickname": "Julia",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-schema",
-                "name": "Ristretto",
-                "nickname": "Schema",
-                "price": 80,
-                "image": "images/espresso.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-erlang",
-                "name": "Espresso Macchiato",
-                "nickname": "Erlang",
-                "price": 80,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-go",
-                "name": "Melange",
-                "nickname": "Go",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-java",
-                "name": "Milchkaffee",
-                "nickname": "Java",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-python",
-                "name": "Cappuccino",
-                "nickname": "Python",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-ruby",
-                "name": "Latte Macciato",
-                "nickname": "Ruby",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-rubinious",
-                "name": "Latte Macciato - groß",
-                "nickname": "Rubinious",
-                "price": 120,
-                "image": "images/grosser-latte.webp",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-bash",
-                "name": "Chocolate",
-                "nickname": "bash",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-javascript",
-                "name": "White Chocolate",
-                "nickname": "Javascript",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-objectivec",
-                "name": "Chocolate Espresso",
-                "nickname": "ObjectiveC",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-swift",
-                "name": "White Chocolate Espresso",
-                "nickname": "Swift",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-perl",
-                "name": "Chococcino",
-                "nickname": "Perl",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            },
-            {
-                "id": "hot-fish",
-                "name": "Frotty Bash",
-                "nickname": "fish",
-                "price": 100,
-                "image": "images/coffee.jpg",
-                "giveStamp": "COFFEE",
-                "payWithStamps": "COFFEE"
-            }
+  {
+    "name": "Heißgetränke",
+    "products": [
+      {
+        "id": "hot-c",
+        "name": "Kaffee",
+        "nickname": "C",
+        "price": 80,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-cpp",
+        "name": "Kaffee Creme",
+        "nickname": "C++",
+        "price": 80,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-rust",
+        "name": "Cafe americano",
+        "nickname": "Rust",
+        "price": 80,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-cnn",
+        "name": "Kaffee schwach",
+        "nickname": "C--",
+        "price": 80,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-lua",
+        "name": "Espresso",
+        "nickname": "Lua",
+        "price": 80,
+        "image": "images/small/hot-espresso.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-julia",
+        "name": "Espresso Doppio",
+        "nickname": "Julia",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-schema",
+        "name": "Ristretto",
+        "nickname": "Schema",
+        "price": 80,
+        "image": "images/small/hot-espresso.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-erlang",
+        "name": "Espresso Macchiato",
+        "nickname": "Erlang",
+        "price": 80,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-go",
+        "name": "Melange",
+        "nickname": "Go",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-java",
+        "name": "Milchkaffee",
+        "nickname": "Java",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-python",
+        "name": "Cappuccino",
+        "nickname": "Python",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-ruby",
+        "name": "Latte Macciato",
+        "nickname": "Ruby",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-rubinious",
+        "name": "Latte Macciato - groß",
+        "nickname": "Rubinious",
+        "price": 120,
+        "image": "images/small/hot-grosser-latte.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-bash",
+        "name": "Chocolate",
+        "nickname": "bash",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-javascript",
+        "name": "White Chocolate",
+        "nickname": "Javascript",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-objectivec",
+        "name": "Chocolate Espresso",
+        "nickname": "ObjectiveC",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-swift",
+        "name": "White Chocolate Espresso",
+        "nickname": "Swift",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-perl",
+        "name": "Chococcino",
+        "nickname": "Perl",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      },
+      {
+        "id": "hot-fish",
+        "name": "Frotty Bash",
+        "nickname": "fish",
+        "price": 100,
+        "image": "images/small/hot-coffee.png",
+        "giveStamp": "COFFEE",
+        "payWithStamps": "COFFEE"
+      }
+    ]
+  },
+  {
+    "name": "Kaltgetränke 0,5l",
+    "products": [
+      {
+        "id": "cold-500-kolle",
+        "name": "Kolle Mate",
+        "barcode": "4280001274044",
+        "price": 150,
+        "image": "images/small/cold-500-kolle.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-zotrine",
+        "name": "Zotrine",
+        "barcode": "4280001274006",
+        "price": 150,
+        "image": "images/small/cold-500-zotrine.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-kilimo",
+        "name": "Kilimo",
+        "barcode": "4280001274051",
+        "price": 150,
+        "image": "images/small/cold-500-kilimo.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-kolla",
+        "name": "Kolla",
+        "barcode": "4280001274099",
+        "price": 150,
+        "image": "images/small/cold-500-kolla.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-flora",
+        "name": "Flora Power Mate",
+        "barcode": "4260031874056",
+        "price": 150,
+        "image": "images/small/cold-500-flora.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-premium-cola",
+        "name": "Premium Cola",
+        "price": 150,
+        "image": "images/small/cold-500-premium-cola.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-club-mate",
+        "name": "Club Mate",
+        "barcode": "4029764001807",
+        "price": 150,
+        "image": "images/small/cold-500-club-mate.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-club-mate-icetea",
+        "name": "Club Mate Eistee",
+        "barcode": "4029764001814",
+        "price": 150,
+        "image": "images/small/cold-500-club-mate-icetea.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-club-mate-granat",
+        "name": "Club Mate Granat",
+        "barcode": "4029764001401",
+        "price": 150,
+        "image": "images/small/cold-500-club-mate-granat.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-club-mate-winter",
+        "name": "Club Mate Winter",
+        "barcode": "4029764001869",
+        "price": 150,
+        "image": "images/small/cold-500-club-mate-winter.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-fritz-orange",
+        "name": "Fritz Limo Orange",
+        "barcode": "4260107222989",
+        "price": 150,
+        "image": "images/small/cold-500-fritz-orange.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-fritz-apfel",
+        "name": "Fritz-Spritz Apfelschorle",
+        "barcode": "4260107222576",
+        "price": 150,
+        "image": "images/small/cold-500-fritz-apfel.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-fritz-mischmasch",
+        "name": "Fritz-Cola MischMasch",
+        "barcode": "4260107222279",
+        "price": 150,
+        "image": "images/small/cold-500-fritz-mischmasch.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-miomio-mate",
+        "name": "Mio Mio Mate",
+        "barcode": "4002846034504",
+        "price": 150,
+        "image": "images/small/cold-500-miomio-mate.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-miomio-mate-ginger",
+        "name": "Mio Mio Mate Ginger",
+        "barcode": "4002846034603",
+        "price": 150,
+        "image": "images/small/cold-500-miomio-mate-ginger.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-500-miomio-cola",
+        "name": "Mio Mio Cola",
+        "barcode": "4002846034306",
+        "price": 150,
+        "image": "images/small/cold-500-miomio-cola.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-700-wasser-spritzig",
+        "name": "Wasser spritzig",
+        "barcode": "4043533000808",
+        "price": 70,
+        "image": "images/small/cold-700-wasser-spritzig.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-700-wasser-medium",
+        "name": "Wasser medium",
+        "barcode": "4013256011955",
+        "price": 70,
+        "image": "images/small/cold-700-wasser-medium.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-700-wasser-still",
+        "name": "Wasser still",
+        "barcode": "4013256011283",
+        "price": 70,
+        "image": "images/small/cold-700-wasser-still.png",
+        "payWithStamps": "MATE"
+      }
+    ]
+  },
+  {
+    "name": "Kaltgetränke 0,33l",
+    "products": [
+      {
+        "id": "cold-330-wostok-aprikose",
+        "name": "Wostok Aprikose Mandel",
+        "barcode": "4260189210096",
+        "price": 110,
+        "image": "images/small/cold-330-wostok-aprikose.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-330-wostok-dattel",
+        "name": "Wostok Dattel Granatapfel",
+        "barcode": "4260189210034",
+        "price": 110,
+        "image": "images/small/cold-330-wostok-dattel.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-330-wostok-ingwer",
+        "name": "Wostok Estragon Ingwer",
+        "barcode": "4260189210058",
+        "price": 110,
+        "image": "images/small/cold-330-wostok-ingwer.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-330-wostok-tannenwald",
+        "name": "Wostok Tannenwald",
+        "barcode": "4260189210010",
+        "price": 110,
+        "image": "images/small/cold-330-wostok-tannenwald.png",
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-330-wostok-birne-rosmarin",
+        "name": "Wostok Birne Rosmarin",
+        "price": 150,
+        "image": "images/small/cold-330-wostok-birne-rosmarin.png",
+        "flags": [
+          "BIO"
+        ],
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-330-wostok-orange-vanille",
+        "name": "Wostok Orange Vanille",
+        "barcode": "4260189210638",
+        "price": 150,
+        "image": "images/small/cold-330-wostok-orange-vanille.png",
+        "flags": [
+          "BIO"
+        ],
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-330-wostok-pflaume-kardamon",
+        "name": "Wostok Pflaume Kardamon",
+        "price": 150,
+        "image": "images/small/cold-330-wostok-pflaume-kardamon.png",
+        "flags": [
+          "BIO"
+        ],
+        "payWithStamps": "MATE"
+      },
+      {
+        "id": "cold-330-biozisch-matcha",
+        "name": "BioZisch Matcha",
+        "barcode": "4015533025419",
+        "price": 150,
+        "payWithStamps": "MATE",
+        "image": "images/small/cold-330-biozisch-matcha.png",
+        "flags": [
+          "BIO"
         ]
-    },
-    {
-        "name": "Kaltgetränke 0,5l",
-        "products": [
-            {
-                "id": "cold-500-kolle",
-                "name": "Kolle Mate",
-                "barcode": "4280001274044",
-                "price": 150,
-                "image": "images/kolle-mate.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-zotrine",
-                "name": "Zotrine",
-                "barcode": "4280001274006",
-                "price": 150,
-                "image": "images/zotrine.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-kilimo",
-                "name": "Kilimo",
-                "price": 150,
-                "image": "images/kilimo.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-kolla",
-                "name": "Kolla",
-                "price": 150,
-                "image": "images/kolla.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-flora",
-                "name": "Flora Power Mate",
-                "barcode": "4260031874056",
-                "price": 150,
-                "image": "images/florapower-logo.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-premium",
-                "name": "Premium Cola",
-                "price": 150,
-                "image": "images/premium-cola.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-club-mate",
-                "name": "Club Mate",
-                "barcode": "4029764001807",
-                "price": 150,
-                "image": "images/club-mate.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-club-mate-icetea",
-                "name": "Club Mate Eistee",
-                "barcode": "4029764001814",
-                "price": 150,
-                "image": "images/club-mate-icetea.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-club-mate-granat",
-                "name": "Club Mate Granat",
-                "barcode": "4029764001401",
-                "price": 150,
-                "image": "images/club-mate-granat.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-club-mate-winter",
-                "name": "Club Mate Winter",
-                "price": 150,
-                "image": "images/club-mate-winter.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-fritz-orange",
-                "name": "Fritz Limo Orange",
-                "barcode": "4260107222989",
-                "price": 150,
-                "image": "images/fritz-limo-orange.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-fritz-apfel",
-                "name": "Fritz-Spritz Apfelschorle",
-                "barcode": "4260107222576",
-                "price": 150,
-                "image": "images/fritz-spritz-apfelschorle.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-fritz-mischmasch",
-                "name": "Fritz-Cola MischMasch",
-                "price": 150,
-                "image": "images/fritz-kola-mischmasch.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-miomio-mate",
-                "name": "Mio Mio Mate",
-                "price": 150,
-                "image": "images/miomio-mate.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-500-miomio-mate-ginger",
-                "name": "Mio Mio Mate Ginger",
-                "price": 150,
-                "image": "images/miomio-mate-ginger.png",
-                "payWithStamps": "MATE"
-            }
+      },
+      {
+        "id": "cold-330-biozisch-ingwer",
+        "name": "BioZisch Ginger Life",
+        "barcode": "4015533019586",
+        "price": 150,
+        "payWithStamps": "MATE",
+        "image": "images/small/cold-330-biozisch-ingwer.png",
+        "flags": [
+          "BIO"
         ]
-    },
-    {
-        "name": "Kaltgetränke 0,33l",
-        "products": [
-            {
-                "id": "cold-330-wostok-aprikose",
-                "name": "Wostok Aprikose Mandel",
-                "barcode": "4260189210096",
-                "price": 110,
-                "image": "images/wostok-aprikose-mandel.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-330-wostok-dattel",
-                "name": "Wostok Dattel Granatapfel",
-                "barcode": "4260189210034",
-                "price": 110,
-                "image": "images/wostok-dattel-granatapfel.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-330-wostok-ingwer",
-                "name": "Wostok Estragon Ingwer",
-                "barcode": "4260189210058",
-                "price": 110,
-                "image": "images/wostok-estragon-ingwer.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-330-wostok-tannenwald",
-                "name": "Wostok Tannenwald",
-                "barcode": "4260189210010",
-                "price": 110,
-                "image": "images/wostok-tannenwald.png",
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-330-wostok-birne-rosmarin",
-                "name": "Wostok Birne Rosmarin",
-                "price": 150,
-                "image": "images/wostok-birne-rosmarin.png",
-                "flags": [
-                    "BIO"
-                ],
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-330-wostok-orange-vanille",
-                "name": "Wostok Orange Vanille",
-                "price": 150,
-                "image": "images/wostok-orange-vanille.png",
-                "flags": [
-                    "BIO"
-                ],
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-330-wostok-pflaume-kardamon",
-                "name": "Wostok Pflaume Kardamon",
-                "price": 150,
-                "image": "images/wostok-pflaume-kardamon.png",
-                "flags": [
-                    "BIO"
-                ],
-                "payWithStamps": "MATE"
-            },
-            {
-                "id": "cold-330-biozisch-matcha",
-                "name": "BioZisch Matcha",
-                "barcode": "4015533025419",
-                "price": 150,
-                "payWithStamps": "MATE",
-                "image": "images/biozisch-matcha.png",
-                "flags": [
-                    "BIO"
-                ]
-            },
-            {
-                "id": "cold-330-biozisch-ginger-life",
-                "name": "BioZisch Ginger Life",
-                "barcode": "4015533019586",
-                "price": 150,
-                "payWithStamps": "MATE",
-                "image": "images/biozisch-ingwer.png",
-                "flags": [
-                    "BIO"
-                ]
-            },
-            {
-                "id": "cold-330-biozisch-gurke",
-                "name": "BioZisch Gurke",
-                "barcode": "4015533028236",
-                "price": 150,
-                "payWithStamps": "MATE",
-                "image": "images/biozisch-gurke.png",
-                "flags": [
-                    "BIO"
-                ]
-            }
+      },
+      {
+        "id": "cold-330-biozisch-gurke",
+        "name": "BioZisch Gurke",
+        "barcode": "4015533028236",
+        "price": 150,
+        "payWithStamps": "MATE",
+        "image": "images/small/cold-330-biozisch-gurke.png",
+        "flags": [
+          "BIO"
         ]
-    },
-    {
-        "name": "Snacks",
-        "products": [
-            {
-                "id": "snacks-mr-tom",
-                "name": "Mr. Tom",
-                "barcode": "4021700800000",
-                "image": "images/mr-tom.jpg",
-                "price": 40
-            },
-            {
-                "id": "snacks-mr-jim",
-                "name": "Mr. Jim",
-                "image": "images/mr-jim.jpg",
-                "price": 40
-            },
-            {
-                "id": "snacks-gute-bio-schokolade",
-                "name": "Die Gute Bio Schokolade",
-                "barcode": "7610815028774",
-                "image": "images/bio-schokolade.png",
-                "price": 140
-            },
-            {
-                "id": "snacks-kinder-riegel",
-                "name": "Kinder Riegel",
-                "barcode": "40084077",
-                "image": "images/kinder-schokolade.svg",
-                "price": 30
-            },
-            {
-                "id": "snacks-kinder-bueno",
-                "name": "Kinder Bueno",
-                "barcode": "4008400935225",
-                "image": "images/kinder-bueno.png",
-                "price": 80
-            },
-            {
-                "id": "snacks-knoppers",
-                "name": "Knoppers",
-                "barcode": "40358802",
-                "image": "images/knoppers.jpg",
-                "price": 60
-            },
-            {
-                "id": "snacks-hanuta",
-                "name": "Hanuta",
-                "barcode": "7120873518730",
-                "image": "images/hanuta.jpg",
-                "price": 60
-            },
-            {
-                "id": "snacks-pickup",
-                "name": "Pickup",
-                "barcode": "4017100213045",
-                "image": "images/pick-up-choco.jpg",
-                "price": 40
-            },
-            {
-                "id": "snacks-pickup-black-white",
-                "name": "Pickup Black & White",
-                "image": "images/pick-up-black-white.jpg",
-                "price": 40
-            }
-        ]
-    }
+      }
+    ]
+  },
+  {
+    "name": "Snacks",
+    "products": [
+      {
+        "id": "snacks-mr-tom",
+        "name": "Mr. Tom",
+        "barcode": "4021700800000",
+        "image": "images/small/snacks-mr-tom.png",
+        "price": 40
+      },
+      {
+        "id": "snacks-mr-jim",
+        "name": "Mr. Jim",
+        "image": "images/small/snacks-mr-jim.png",
+        "price": 40
+      },
+      {
+        "id": "snacks-gute-bio-schokolade",
+        "name": "Die Gute Bio Schokolade",
+        "barcode": "7610815028774",
+        "image": "images/small/snacks-gute-bio-schokolade.png",
+        "price": 140
+      },
+      {
+        "id": "snacks-kinder-riegel",
+        "name": "Kinder Riegel",
+        "barcode": "40084077",
+        "image": "images/snacks-kinder-riegel.svg",
+        "price": 30
+      },
+      {
+        "id": "snacks-kinder-duplo",
+        "name": "Kinder Duplo",
+        "barcode": "40084015",
+        "image": "images/snacks-kinder-duplo.svg",
+        "price": 30
+      },
+      {
+        "id": "snacks-kinder-bueno",
+        "name": "Kinder Bueno",
+        "barcode": "4008400935225",
+        "image": "images/small/snacks-kinder-bueno.png",
+        "price": 50
+      },
+      {
+        "id": "snacks-kinder-country",
+        "name": "Kinder Country",
+        "barcode": "40084176",
+        "image": "images/small/snacks-kinder-country.png",
+        "price": 50
+      },
+      {
+        "id": "snacks-knoppers",
+        "name": "Knoppers",
+        "barcode": "40358802",
+        "image": "images/small/snacks-knoppers.png",
+        "price": 40
+      },
+      {
+        "id": "snacks-hanuta",
+        "name": "Hanuta",
+        "barcode": "7120873518730",
+        "image": "images/small/snacks-hanuta.png",
+        "price": 60
+      },
+      {
+        "id": "snacks-pickup",
+        "name": "Pickup",
+        "barcode": "4017100263101",
+        "image": "images/small/snacks-pickup.png",
+        "price": 40
+      },
+      {
+        "id": "snacks-pickup-black-white",
+        "name": "Pickup Black & White",
+        "barcode": "4017100213045",
+        "image": "images/small/snacks-pickup-black-white.png",
+        "price": 40
+      },
+      {
+        "id": "snacks-toblerone",
+        "name": "Toblerone",
+        "barcode": "76145759",
+        "image": "images/small/snacks-toblerone.png",
+        "price": 70
+      },
+      {
+        "id": "snacks-bekind-dark-chocolate-nuts",
+        "name": "BEKIND Dark Chocolate Nuts & Sea Salt",
+        "image": "images/small/snacks-bekind-dark-chocolate-nuts.png",
+        "barcode": "5000159528481",
+        "price": 140
+      },
+      {
+        "id": "snacks-bekind-caramel-almond",
+        "name": "BEKIND Caramel Almond & Sea Salt",
+        "image": "images/small/snacks-bekind.png",
+        "barcode": "602652257780",
+        "price": 140
+      },
+      {
+        "id": "snacks-bekind-peanut-butter-dark-chocolate",
+        "name": "BEKIND Peanut Butter Dark Chocolate",
+        "image": "images/small/snacks-bekind.png",
+        "barcode": "5000159528368",
+        "price": 140
+      },
+      {
+        "id": "snacks-bekind-peanut-butter-dark-chocolate",
+        "name": "BEKIND Peanut Butter Dark Chocolate",
+        "image": "images/small/snacks-bekind.png",
+        "barcode": "5000159528368",
+        "price": 140
+      },
+      {
+        "id": "snacks-corny-haferkraft-cranberry",
+        "name": "Corny Haferkraft Cranberry-Kürbiskern",
+        "image": "images/small/snacks-corny-haferkraft-cranberry.png",
+        "barcode": "4011800513719",
+        "price": 100
+      },
+      {
+        "id": "snacks-corny-haferkraft-blueberry",
+        "name": "Corny Haferkraft Blueberry-Chia",
+        "image": "images/small/snacks-corny-haferkraft-blueberry.png",
+        "barcode": "4011800513412",
+        "price": 100
+      },
+      {
+        "id": "snacks-corny-haferkraft-banane",
+        "name": "Corny Haferkraft Banane",
+        "barcode": "4011800513221",
+        "price": 100
+      },
+      {
+        "id": "snacks-corny-haferkraft-kakao",
+        "name": "Corny Haferkraft Kakao",
+        "image": "images/small/snacks-corny-haferkraft-kakao.png",
+        "barcode": "4011800513917",
+        "price": 100
+      },
+      {
+        "id": "snacks-corny-big-schoko",
+        "name": "Corny Big Schoko",
+        "image": "images/small/snacks-corny-big-schoko.png",
+        "barcode": "4011800520052",
+        "price": 80
+      },
+      {
+        "id": "snacks-ultje-erdnuesse-pickant",
+        "name": "ültje Erdnüsse pikant",
+        "barcode": "4004980511200",
+        "price": 80
+      },
+      {
+        "id": "snacks-ultje-studentenfutter-rosinen",
+        "name": "ültje Studentenfutter mit Rosinen",
+        "barcode": "4004980560000",
+        "price": 80
+      },
+      {
+        "id": "snacks-zetti-bambina",
+        "name": "Zetti bambina",
+        "barcode": "4012362023807",
+        "price": 70
+      }
+    ]
+  }
 ]
