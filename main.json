@@ -528,14 +528,14 @@
       {
         "id": "snacks-bekind-caramel-almond",
         "name": "BEKIND Caramel Almond & Sea Salt",
-        "image": "images/small/snacks-bekind.png",
+        "image": "images/small/snacks-bekind-caramel-almon.png",
         "barcode": "602652257780",
         "price": 140
       },
       {
         "id": "snacks-bekind-peanut-butter-dark-chocolate",
         "name": "BEKIND Peanut Butter Dark Chocolate",
-        "image": "images/small/snacks-bekind.png",
+        "image": "images/small/snacks-bekind-peanut-butter-dark-chocolate.png",
         "barcode": "5000159528368",
         "price": 140
       },
