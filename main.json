@@ -577,12 +577,14 @@
       {
         "id": "snacks-ultje-erdnuesse-pickant",
         "name": "ültje Erdnüsse pikant",
+        "image": "images/small/snacks-ultje-erdnuesse-pickant.png",
         "barcode": "4004980511200",
         "price": 80
       },
       {
         "id": "snacks-ultje-studentenfutter-rosinen",
         "name": "ültje Studentenfutter mit Rosinen",
+        "image": "images/small/snacks-ultje-studentenfutter-rosinen.png",
         "barcode": "4004980560000",
         "price": 80
       },
