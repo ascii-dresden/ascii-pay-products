@@ -540,13 +540,6 @@
         "price": 140
       },
       {
-        "id": "snacks-bekind-peanut-butter-dark-chocolate",
-        "name": "BEKIND Peanut Butter Dark Chocolate",
-        "image": "images/small/snacks-bekind.png",
-        "barcode": "5000159528368",
-        "price": 140
-      },
-      {
         "id": "snacks-corny-haferkraft-cranberry",
         "name": "Corny Haferkraft Cranberry-Kürbiskern",
         "image": "images/small/snacks-corny-haferkraft-cranberry.png",
@@ -563,6 +556,7 @@
       {
         "id": "snacks-corny-haferkraft-banane",
         "name": "Corny Haferkraft Banane",
+        "image": "images/small/snacks-corny-haferkraft-banane.png",
         "barcode": "4011800513221",
         "price": 100
       },
@@ -595,6 +589,7 @@
       {
         "id": "snacks-zetti-bambina",
         "name": "Zetti bambina",
+        "image": "images/small/snacks-zetti-bambina.png",
         "barcode": "4012362023807",
         "price": 70
       }
