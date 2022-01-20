@@ -8,7 +8,7 @@
         "nickname": "C",
         "price": 80,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -17,7 +17,7 @@
         "nickname": "C++",
         "price": 80,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -26,7 +26,7 @@
         "nickname": "Rust",
         "price": 80,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -35,7 +35,7 @@
         "nickname": "C--",
         "price": 80,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -44,7 +44,7 @@
         "nickname": "Lua",
         "price": 80,
         "image": "images/small/hot-espresso.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -53,7 +53,7 @@
         "nickname": "Julia",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -62,7 +62,7 @@
         "nickname": "Schema",
         "price": 80,
         "image": "images/small/hot-espresso.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -71,7 +71,7 @@
         "nickname": "Erlang",
         "price": 80,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -80,7 +80,7 @@
         "nickname": "Go",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -89,7 +89,7 @@
         "nickname": "Java",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -98,7 +98,7 @@
         "nickname": "Python",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -107,7 +107,7 @@
         "nickname": "Ruby",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -116,7 +116,7 @@
         "nickname": "Rubinious",
         "price": 120,
         "image": "images/small/hot-grosser-latte.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -125,7 +125,7 @@
         "nickname": "bash",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -134,7 +134,7 @@
         "nickname": "Javascript",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -143,7 +143,7 @@
         "nickname": "ObjectiveC",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -152,7 +152,7 @@
         "nickname": "Swift",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -161,7 +161,7 @@
         "nickname": "Perl",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       },
       {
@@ -170,7 +170,7 @@
         "nickname": "fish",
         "price": 100,
         "image": "images/small/hot-coffee.png",
-        "giveStamp": "COFFEE",
+        "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
       }
     ]
@@ -184,7 +184,7 @@
         "barcode": "4280001274044",
         "price": 150,
         "image": "images/small/cold-500-kolle.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-zotrine",
@@ -192,7 +192,7 @@
         "barcode": "4280001274006",
         "price": 150,
         "image": "images/small/cold-500-zotrine.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-kilimo",
@@ -200,7 +200,7 @@
         "barcode": "4280001274051",
         "price": 150,
         "image": "images/small/cold-500-kilimo.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-kolla",
@@ -208,7 +208,7 @@
         "barcode": "4280001274099",
         "price": 150,
         "image": "images/small/cold-500-kolla.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-flora",
@@ -216,14 +216,14 @@
         "barcode": "4260031874056",
         "price": 150,
         "image": "images/small/cold-500-flora.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-premium-cola",
         "name": "Premium Cola",
         "price": 150,
         "image": "images/small/cold-500-premium-cola.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-club-mate",
@@ -231,7 +231,7 @@
         "barcode": "4029764001807",
         "price": 150,
         "image": "images/small/cold-500-club-mate.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-club-mate-icetea",
@@ -239,7 +239,7 @@
         "barcode": "4029764001814",
         "price": 150,
         "image": "images/small/cold-500-club-mate-icetea.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-club-mate-granat",
@@ -247,7 +247,7 @@
         "barcode": "4029764001401",
         "price": 150,
         "image": "images/small/cold-500-club-mate-granat.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-club-mate-winter",
@@ -255,7 +255,7 @@
         "barcode": "4029764001869",
         "price": 150,
         "image": "images/small/cold-500-club-mate-winter.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-fritz-orange",
@@ -263,7 +263,7 @@
         "barcode": "4260107222989",
         "price": 150,
         "image": "images/small/cold-500-fritz-orange.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-fritz-apfel",
@@ -271,7 +271,7 @@
         "barcode": "4260107222576",
         "price": 150,
         "image": "images/small/cold-500-fritz-apfel.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-fritz-mischmasch",
@@ -279,7 +279,7 @@
         "barcode": "4260107222279",
         "price": 150,
         "image": "images/small/cold-500-fritz-mischmasch.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-miomio-mate",
@@ -287,7 +287,7 @@
         "barcode": "4002846034504",
         "price": 150,
         "image": "images/small/cold-500-miomio-mate.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-miomio-mate-ginger",
@@ -295,7 +295,7 @@
         "barcode": "4002846034603",
         "price": 150,
         "image": "images/small/cold-500-miomio-mate-ginger.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-500-miomio-cola",
@@ -303,7 +303,7 @@
         "barcode": "4002846034306",
         "price": 150,
         "image": "images/small/cold-500-miomio-cola.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-700-wasser-spritzig",
@@ -311,7 +311,7 @@
         "barcode": "4043533000808",
         "price": 70,
         "image": "images/small/cold-700-wasser-spritzig.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-700-wasser-medium",
@@ -319,7 +319,7 @@
         "barcode": "4013256011955",
         "price": 70,
         "image": "images/small/cold-700-wasser-medium.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-700-wasser-still",
@@ -327,7 +327,7 @@
         "barcode": "4013256011283",
         "price": 70,
         "image": "images/small/cold-700-wasser-still.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       }
     ]
   },
@@ -340,7 +340,7 @@
         "barcode": "4260189210096",
         "price": 110,
         "image": "images/small/cold-330-wostok-aprikose.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-330-wostok-dattel",
@@ -348,7 +348,7 @@
         "barcode": "4260189210034",
         "price": 110,
         "image": "images/small/cold-330-wostok-dattel.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-330-wostok-ingwer",
@@ -356,7 +356,7 @@
         "barcode": "4260189210058",
         "price": 110,
         "image": "images/small/cold-330-wostok-ingwer.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-330-wostok-tannenwald",
@@ -364,7 +364,7 @@
         "barcode": "4260189210010",
         "price": 110,
         "image": "images/small/cold-330-wostok-tannenwald.png",
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-330-wostok-birne-rosmarin",
@@ -374,7 +374,7 @@
         "flags": [
           "BIO"
         ],
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-330-wostok-orange-vanille",
@@ -385,7 +385,7 @@
         "flags": [
           "BIO"
         ],
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-330-wostok-pflaume-kardamon",
@@ -395,14 +395,14 @@
         "flags": [
           "BIO"
         ],
-        "payWithStamps": "MATE"
+        "payWithStamps": "BOTTLE"
       },
       {
         "id": "cold-330-biozisch-matcha",
         "name": "BioZisch Matcha",
         "barcode": "4015533025419",
         "price": 150,
-        "payWithStamps": "MATE",
+        "payWithStamps": "BOTTLE",
         "image": "images/small/cold-330-biozisch-matcha.png",
         "flags": [
           "BIO"
@@ -413,7 +413,7 @@
         "name": "BioZisch Ginger Life",
         "barcode": "4015533019586",
         "price": 150,
-        "payWithStamps": "MATE",
+        "payWithStamps": "BOTTLE",
         "image": "images/small/cold-330-biozisch-ingwer.png",
         "flags": [
           "BIO"
@@ -424,7 +424,7 @@
         "name": "BioZisch Gurke",
         "barcode": "4015533028236",
         "price": 150,
-        "payWithStamps": "MATE",
+        "payWithStamps": "BOTTLE",
         "image": "images/small/cold-330-biozisch-gurke.png",
         "flags": [
           "BIO"
