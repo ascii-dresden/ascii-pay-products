@@ -184,6 +184,9 @@
         "barcode": "4280001274044",
         "price": 150,
         "image": "images/small/cold-500-kolle.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -192,6 +195,9 @@
         "barcode": "4280001274006",
         "price": 150,
         "image": "images/small/cold-500-zotrine.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -200,6 +206,9 @@
         "barcode": "4280001274051",
         "price": 150,
         "image": "images/small/cold-500-kilimo.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -208,6 +217,9 @@
         "barcode": "4280001274099",
         "price": 150,
         "image": "images/small/cold-500-kolla.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -231,6 +243,9 @@
         "barcode": "4029764001807",
         "price": 150,
         "image": "images/small/cold-500-club-mate.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -239,6 +254,9 @@
         "barcode": "4029764001814",
         "price": 150,
         "image": "images/small/cold-500-club-mate-icetea.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -247,6 +265,9 @@
         "barcode": "4029764001401",
         "price": 150,
         "image": "images/small/cold-500-club-mate-granat.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -255,6 +276,9 @@
         "barcode": "4029764001869",
         "price": 150,
         "image": "images/small/cold-500-club-mate-winter.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -263,6 +287,9 @@
         "barcode": "4260107222989",
         "price": 150,
         "image": "images/small/cold-500-fritz-orange.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -271,6 +298,10 @@
         "barcode": "4260107222576",
         "price": 150,
         "image": "images/small/cold-500-fritz-apfel.png",
+        "flags": [
+          "vegan",
+          "bio"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -279,6 +310,9 @@
         "barcode": "4260107222279",
         "price": 150,
         "image": "images/small/cold-500-fritz-mischmasch.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -287,6 +321,9 @@
         "barcode": "4002846034504",
         "price": 150,
         "image": "images/small/cold-500-miomio-mate.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -295,6 +332,9 @@
         "barcode": "4002846034603",
         "price": 150,
         "image": "images/small/cold-500-miomio-mate-ginger.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -303,6 +343,9 @@
         "barcode": "4002846034306",
         "price": 150,
         "image": "images/small/cold-500-miomio-cola.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -311,6 +354,9 @@
         "barcode": "4043533000808",
         "price": 70,
         "image": "images/small/cold-700-wasser-spritzig.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -319,6 +365,9 @@
         "barcode": "4013256011955",
         "price": 70,
         "image": "images/small/cold-700-wasser-medium.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -327,6 +376,9 @@
         "barcode": "4013256011283",
         "price": 70,
         "image": "images/small/cold-700-wasser-still.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       }
     ]
@@ -340,6 +392,9 @@
         "barcode": "4260189210096",
         "price": 110,
         "image": "images/small/cold-330-wostok-aprikose.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -348,6 +403,9 @@
         "barcode": "4260189210034",
         "price": 110,
         "image": "images/small/cold-330-wostok-dattel.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -356,6 +414,9 @@
         "barcode": "4260189210058",
         "price": 110,
         "image": "images/small/cold-330-wostok-ingwer.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -364,6 +425,9 @@
         "barcode": "4260189210010",
         "price": 110,
         "image": "images/small/cold-330-wostok-tannenwald.png",
+        "flags": [
+          "vegan"
+        ],
         "payWithStamps": "BOTTLE"
       },
       {
@@ -372,7 +436,8 @@
         "price": 150,
         "image": "images/small/cold-330-wostok-birne-rosmarin.png",
         "flags": [
-          "BIO"
+          "bio",
+          "vegan"
         ],
         "payWithStamps": "BOTTLE"
       },
@@ -383,7 +448,8 @@
         "price": 150,
         "image": "images/small/cold-330-wostok-orange-vanille.png",
         "flags": [
-          "BIO"
+          "bio",
+          "vegan"
         ],
         "payWithStamps": "BOTTLE"
       },
@@ -393,7 +459,8 @@
         "price": 150,
         "image": "images/small/cold-330-wostok-pflaume-kardamon.png",
         "flags": [
-          "BIO"
+          "bio",
+          "vegan"
         ],
         "payWithStamps": "BOTTLE"
       },
@@ -405,7 +472,8 @@
         "payWithStamps": "BOTTLE",
         "image": "images/small/cold-330-biozisch-matcha.png",
         "flags": [
-          "BIO"
+          "bio",
+          "vegan"
         ]
       },
       {
@@ -416,7 +484,8 @@
         "payWithStamps": "BOTTLE",
         "image": "images/small/cold-330-biozisch-ingwer.png",
         "flags": [
-          "BIO"
+          "bio",
+          "vegan"
         ]
       },
       {
@@ -427,7 +496,20 @@
         "payWithStamps": "BOTTLE",
         "image": "images/small/cold-330-biozisch-gurke.png",
         "flags": [
-          "BIO"
+          "bio",
+          "vegan"
+        ]
+      },
+      {
+        "id": "cold-330-biozisch-blutorange",
+        "name": "BioZisch Blutorange",
+        "barcode": "4015533020810",
+        "price": 150,
+        "payWithStamps": "BOTTLE",
+        "image": "images/small/cold-330-biozisch-blutorange.png",
+        "flags": [
+          "bio",
+          "vegan"
         ]
       }
     ]
@@ -440,6 +522,9 @@
         "name": "Mr. Tom",
         "barcode": "4021700800000",
         "image": "images/small/snacks-mr-tom.png",
+        "flags": [
+          "vegan"
+        ],
         "price": 40
       },
       {
@@ -557,6 +642,9 @@
         "id": "snacks-corny-haferkraft-banane",
         "name": "Corny Haferkraft Banane",
         "image": "images/small/snacks-corny-haferkraft-banane.png",
+        "flags": [
+          "vegan"
+        ],
         "barcode": "4011800513221",
         "price": 100
       },
@@ -578,6 +666,9 @@
         "id": "snacks-ultje-erdnuesse-pickant",
         "name": "ültje Erdnüsse pikant",
         "image": "images/small/snacks-ultje-erdnuesse-pickant.png",
+        "flags": [
+          "vegan"
+        ],
         "barcode": "4004980511200",
         "price": 80
       },
@@ -585,6 +676,9 @@
         "id": "snacks-ultje-studentenfutter-rosinen",
         "name": "ültje Studentenfutter mit Rosinen",
         "image": "images/small/snacks-ultje-studentenfutter-rosinen.png",
+        "flags": [
+          "vegan"
+        ],
         "barcode": "4004980560000",
         "price": 80
       },
