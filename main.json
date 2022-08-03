@@ -285,7 +285,7 @@
         "id": "cold-500-fritz-orange",
         "name": "Fritz Limo Orange",
         "barcode": "4260107222989",
-        "price": 150,
+        "price": 200,
         "image": "images/small/cold-500-fritz-orange.png",
         "flags": [
           "vegan"
@@ -296,7 +296,7 @@
         "id": "cold-500-fritz-apfel",
         "name": "Fritz-Spritz Apfelschorle",
         "barcode": "4260107222576",
-        "price": 150,
+        "price": 200,
         "image": "images/small/cold-500-fritz-apfel.png",
         "flags": [
           "vegan",
@@ -308,7 +308,7 @@
         "id": "cold-500-fritz-mischmasch",
         "name": "Fritz-Cola MischMasch",
         "barcode": "4260107222279",
-        "price": 150,
+        "price": 200,
         "image": "images/small/cold-500-fritz-mischmasch.png",
         "flags": [
           "vegan"
