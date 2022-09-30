@@ -282,6 +282,17 @@
         "payWithStamps": "BOTTLE"
       },
       {
+        "id": "cold-500-club-mate-zero",
+        "name": "Club Mate Winter",
+        "barcode": "4029764001906",
+        "price": 150,
+        "image": "images/small/cold-500-club-mate-zero.png",
+        "flags": [
+          "vegan"
+        ],
+        "payWithStamps": "BOTTLE"
+      },
+      {
         "id": "cold-500-fritz-orange",
         "name": "Fritz Limo Orange",
         "barcode": "4260107222989",
