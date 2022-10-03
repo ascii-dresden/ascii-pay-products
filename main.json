@@ -6,7 +6,7 @@
         "id": "hot-c",
         "name": "Kaffee",
         "nickname": "C",
-        "price": 80,
+        "price": 100,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -15,7 +15,7 @@
         "id": "hot-cpp",
         "name": "Kaffee Creme",
         "nickname": "C++",
-        "price": 80,
+        "price": 100,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -24,7 +24,7 @@
         "id": "hot-rust",
         "name": "Cafe americano",
         "nickname": "Rust",
-        "price": 80,
+        "price": 100,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -33,7 +33,7 @@
         "id": "hot-cnn",
         "name": "Kaffee schwach",
         "nickname": "C--",
-        "price": 80,
+        "price": 100,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -42,7 +42,7 @@
         "id": "hot-lua",
         "name": "Espresso",
         "nickname": "Lua",
-        "price": 80,
+        "price": 100,
         "image": "images/small/hot-espresso.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -51,7 +51,7 @@
         "id": "hot-julia",
         "name": "Espresso Doppio",
         "nickname": "Julia",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -60,7 +60,7 @@
         "id": "hot-schema",
         "name": "Ristretto",
         "nickname": "Schema",
-        "price": 80,
+        "price": 100,
         "image": "images/small/hot-espresso.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -69,7 +69,7 @@
         "id": "hot-erlang",
         "name": "Espresso Macchiato",
         "nickname": "Erlang",
-        "price": 80,
+        "price": 100,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -78,7 +78,7 @@
         "id": "hot-go",
         "name": "Melange",
         "nickname": "Go",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -87,7 +87,7 @@
         "id": "hot-java",
         "name": "Milchkaffee",
         "nickname": "Java",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -96,7 +96,7 @@
         "id": "hot-python",
         "name": "Cappuccino",
         "nickname": "Python",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -105,7 +105,7 @@
         "id": "hot-ruby",
         "name": "Latte Macciato",
         "nickname": "Ruby",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -114,7 +114,7 @@
         "id": "hot-rubinious",
         "name": "Latte Macciato - groß",
         "nickname": "Rubinious",
-        "price": 120,
+        "price": 200,
         "image": "images/small/hot-grosser-latte.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -123,7 +123,7 @@
         "id": "hot-bash",
         "name": "Chocolate",
         "nickname": "bash",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -132,7 +132,7 @@
         "id": "hot-javascript",
         "name": "White Chocolate",
         "nickname": "Javascript",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -141,7 +141,7 @@
         "id": "hot-objectivec",
         "name": "Chocolate Espresso",
         "nickname": "ObjectiveC",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -150,7 +150,7 @@
         "id": "hot-swift",
         "name": "White Chocolate Espresso",
         "nickname": "Swift",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -159,7 +159,7 @@
         "id": "hot-perl",
         "name": "Chococcino",
         "nickname": "Perl",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -168,7 +168,7 @@
         "id": "hot-fish",
         "name": "Frotty Bash",
         "nickname": "fish",
-        "price": 100,
+        "price": 150,
         "image": "images/small/hot-coffee.png",
         "giveStamps": "COFFEE",
         "payWithStamps": "COFFEE"
@@ -556,14 +556,14 @@
         "name": "Kinder Riegel",
         "barcode": "40084077",
         "image": "images/snacks-kinder-riegel.svg",
-        "price": 30
+        "price": 40
       },
       {
         "id": "snacks-kinder-duplo",
         "name": "Kinder Duplo",
         "barcode": "40084015",
         "image": "images/snacks-kinder-duplo.svg",
-        "price": 30
+        "price": 40
       },
       {
         "id": "snacks-kinder-bueno",
@@ -619,35 +619,35 @@
         "name": "BEKIND Dark Chocolate Nuts & Sea Salt",
         "image": "images/small/snacks-bekind-dark-chocolate-nuts.png",
         "barcode": "5000159528481",
-        "price": 140
+        "price": 180
       },
       {
         "id": "snacks-bekind-caramel-almond",
         "name": "BEKIND Caramel Almond & Sea Salt",
         "image": "images/small/snacks-bekind-caramel-almond.png",
         "barcode": "602652257780",
-        "price": 140
+        "price": 180
       },
       {
         "id": "snacks-bekind-peanut-butter-dark-chocolate",
         "name": "BEKIND Peanut Butter Dark Chocolate",
         "image": "images/small/snacks-bekind-peanut-butter-dark-chocolate.png",
         "barcode": "5000159528368",
-        "price": 140
+        "price": 180
       },
       {
         "id": "snacks-corny-haferkraft-cranberry",
         "name": "Corny Haferkraft Cranberry-Kürbiskern",
         "image": "images/small/snacks-corny-haferkraft-cranberry.png",
         "barcode": "4011800513719",
-        "price": 100
+        "price": 110
       },
       {
         "id": "snacks-corny-haferkraft-blueberry",
         "name": "Corny Haferkraft Blueberry-Chia",
         "image": "images/small/snacks-corny-haferkraft-blueberry.png",
         "barcode": "4011800513412",
-        "price": 100
+        "price": 110
       },
       {
         "id": "snacks-corny-haferkraft-banane",
@@ -657,14 +657,14 @@
           "vegan"
         ],
         "barcode": "4011800513221",
-        "price": 100
+        "price": 110
       },
       {
         "id": "snacks-corny-haferkraft-kakao",
         "name": "Corny Haferkraft Kakao",
         "image": "images/small/snacks-corny-haferkraft-kakao.png",
         "barcode": "4011800513917",
-        "price": 100
+        "price": 110
       },
       {
         "id": "snacks-corny-big-schoko",
